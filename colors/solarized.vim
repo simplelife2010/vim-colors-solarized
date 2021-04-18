@@ -138,6 +138,7 @@
 let s:terms_italic=[
             \"rxvt",
             \"gnome-terminal",
+            \"Alacritty.app",
             \"iTerm.app"
             \]
 " For reference only, terminals are known to be incomptible.
